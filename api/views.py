@@ -8,11 +8,14 @@ from .forms import DocumentForm
 from django.db import connection
 
 
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+
 def my_custom_sql(query):
     with connection.cursor() as cursor:
         cursor.execute(query)
         rows = cursor.fetchall()
-    # print(rows)
     return rows
 
 
@@ -58,8 +61,39 @@ def get_features(request):
 
     features = []
 
+    print(result)
+
     for row in result:
-        if row[2] == "INTEGER":
+        if (
+            row[2] == "int"
+            or row[2] == "integer"
+            or row[2] == "tinyint"
+            or row[2] == "smallint"
+            or row[2] == "mediumint"
+            or row[2] == "bigint"
+            or row[2] == "unsigned big int"
+            or row[2] == "int2"
+            or row[2] == "int8"
+            or row[2] == "real"
+            or row[2] == "double"
+            or row[2] == "double precision"
+            or row[2] == "float"
+            or row[2] == "numeric"
+            or row[2] == "INT"
+            or row[2] == "INTEGER"
+            or row[2] == "TINYINT"
+            or row[2] == "SMALLINT"
+            or row[2] == "MEDIUMINT"
+            or row[2] == "BIGINT"
+            or row[2] == "UNSIGNED BIG INT"
+            or row[2] == "INT2"
+            or row[2] == "INT8"
+            or row[2] == "REAL"
+            or row[2] == "DOUBLE"
+            or row[2] == "DOUBLE PRECISION"
+            or row[2] == "FLOAT"
+            or row[2] == "NUMERIC"
+        ):
             features.append(row[1])
 
     return Response({"features": features})
@@ -67,7 +101,11 @@ def get_features(request):
 
 @api_view(["POST"])
 def calc(request):
-    columns = ",".join(word for word in request.data["columns"] if word)
+    selected_columns = request.data["columns"]
+    # features_limit = request.data["featuresLimit"]
+
+    # if len(selected_columns) <= int(features_limit):
+    columns = ",".join(word for word in selected_columns if word)
 
     query = f"SELECT {columns} FROM dummy"
 
@@ -87,15 +125,14 @@ def calc(request):
 
     df = fetch_data(query)
 
-    selected_columns = request.data["columns"]
     newdf = df[selected_columns].copy()
 
     corr = newdf.corr(method=request.data["method"], numeric_only=True)
 
-    return Response(generate_heatmap(corr))
+    return Response(generateHeatmapData(corr))
 
 
-def generate_heatmap(corr: pd.DataFrame):
+def generateHeatmapData(corr: pd.DataFrame):
     data = []
     headers = corr.columns.values.tolist()
 
@@ -107,3 +144,27 @@ def generate_heatmap(corr: pd.DataFrame):
 
         data.append(datum)
     return data
+
+
+@api_view(["POST"])
+def generatePairPlot(request):
+    selected_columns = request.data["columns"]
+
+    if len(selected_columns) < 2:
+        return Response({"error": "At least two columns must be selected"}, status=400)
+
+    columns = ",".join(selected_columns)
+
+    query = f"SELECT {columns} FROM dummy"
+    df = fetch_data(query)  # Assuming this returns a Pandas DataFrame
+
+    # Check if the DataFrame has the expected columns
+    if not all(col in df.columns for col in selected_columns):
+        return Response(
+            {"error": "Some selected columns are not in the DataFrame"}, status=400
+        )
+
+    # Convert the DataFrame to the desired format
+    transformed_data = df[selected_columns].to_dict(orient="records")
+
+    return Response(transformed_data)

@@ -5,4 +5,5 @@ urlpatterns = [
     path("upload/", views.upload),
     path("calc/", views.calc),
     path("features/", views.get_features),
+    path("pairplot/", views.generatePairPlot),
 ]

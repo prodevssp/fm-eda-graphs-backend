@@ -1,0 +1,722 @@
+[
+  {
+    "sex": 1,
+    "trtbps": 145,
+    "exng": 0,
+    "thalachh": 150
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 187
+  },
+  {
+    "sex": 0,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 172
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 178
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 1,
+    "thalachh": 163
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 148
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 153
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 173
+  },
+  {
+    "sex": 1,
+    "trtbps": 172,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 174
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 160
+  },
+  {
+    "sex": 0,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 139
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 171
+  },
+  {
+    "sex": 1,
+    "trtbps": 110,
+    "exng": 1,
+    "thalachh": 144
+  },
+  {
+    "sex": 0,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 158
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 172
+  },
+  {
+    "sex": 0,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 114
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 171
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 151
+  },
+  {
+    "sex": 1,
+    "trtbps": 135,
+    "exng": 0,
+    "thalachh": 161
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 1,
+    "thalachh": 179
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 178
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 1,
+    "thalachh": 137
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 1,
+    "thalachh": 178
+  },
+  {
+    "sex": 0,
+    "trtbps": 160,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 157
+  },
+  {
+    "sex": 1,
+    "trtbps": 110,
+    "exng": 0,
+    "thalachh": 123
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 157
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 152
+  },
+  {
+    "sex": 0,
+    "trtbps": 105,
+    "exng": 0,
+    "thalachh": 168
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 140
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 188
+  },
+  {
+    "sex": 1,
+    "trtbps": 125,
+    "exng": 0,
+    "thalachh": 152
+  },
+  {
+    "sex": 1,
+    "trtbps": 125,
+    "exng": 1,
+    "thalachh": 125
+  },
+  {
+    "sex": 0,
+    "trtbps": 142,
+    "exng": 1,
+    "thalachh": 160
+  },
+  {
+    "sex": 0,
+    "trtbps": 135,
+    "exng": 0,
+    "thalachh": 170
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 165
+  },
+  {
+    "sex": 0,
+    "trtbps": 155,
+    "exng": 0,
+    "thalachh": 148
+  },
+  {
+    "sex": 0,
+    "trtbps": 160,
+    "exng": 0,
+    "thalachh": 151
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 142
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 180
+  },
+  {
+    "sex": 1,
+    "trtbps": 104,
+    "exng": 1,
+    "thalachh": 148
+  },
+  {
+    "sex": 0,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 143
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 182
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 172
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 180
+  },
+  {
+    "sex": 1,
+    "trtbps": 138,
+    "exng": 0,
+    "thalachh": 156
+  },
+  {
+    "sex": 0,
+    "trtbps": 128,
+    "exng": 0,
+    "thalachh": 115
+  },
+  {
+    "sex": 0,
+    "trtbps": 138,
+    "exng": 0,
+    "thalachh": 160
+  },
+  {
+    "sex": 0,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 149
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 151
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 146
+  },
+  {
+    "sex": 0,
+    "trtbps": 108,
+    "exng": 0,
+    "thalachh": 175
+  },
+  {
+    "sex": 0,
+    "trtbps": 135,
+    "exng": 0,
+    "thalachh": 172
+  },
+  {
+    "sex": 1,
+    "trtbps": 134,
+    "exng": 0,
+    "thalachh": 158
+  },
+  {
+    "sex": 1,
+    "trtbps": 122,
+    "exng": 0,
+    "thalachh": 186
+  },
+  {
+    "sex": 1,
+    "trtbps": 115,
+    "exng": 0,
+    "thalachh": 185
+  },
+  {
+    "sex": 1,
+    "trtbps": 118,
+    "exng": 0,
+    "thalachh": 174
+  },
+  {
+    "sex": 0,
+    "trtbps": 128,
+    "exng": 0,
+    "thalachh": 159
+  },
+  {
+    "sex": 0,
+    "trtbps": 110,
+    "exng": 0,
+    "thalachh": 130
+  },
+  {
+    "sex": 1,
+    "trtbps": 108,
+    "exng": 0,
+    "thalachh": 156
+  },
+  {
+    "sex": 1,
+    "trtbps": 118,
+    "exng": 0,
+    "thalachh": 190
+  },
+  {
+    "sex": 1,
+    "trtbps": 135,
+    "exng": 0,
+    "thalachh": 132
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 165
+  },
+  {
+    "sex": 0,
+    "trtbps": 138,
+    "exng": 0,
+    "thalachh": 182
+  },
+  {
+    "sex": 1,
+    "trtbps": 100,
+    "exng": 1,
+    "thalachh": 143
+  },
+  {
+    "sex": 0,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 175
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 170
+  },
+  {
+    "sex": 0,
+    "trtbps": 124,
+    "exng": 0,
+    "thalachh": 163
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 147
+  },
+  {
+    "sex": 1,
+    "trtbps": 94,
+    "exng": 1,
+    "thalachh": 154
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 202
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 1,
+    "thalachh": 186
+  },
+  {
+    "sex": 0,
+    "trtbps": 122,
+    "exng": 0,
+    "thalachh": 165
+  },
+  {
+    "sex": 0,
+    "trtbps": 135,
+    "exng": 0,
+    "thalachh": 161
+  },
+  {
+    "sex": 1,
+    "trtbps": 125,
+    "exng": 0,
+    "thalachh": 166
+  },
+  {
+    "sex": 1,
+    "trtbps": 140,
+    "exng": 1,
+    "thalachh": 164
+  },
+  {
+    "sex": 1,
+    "trtbps": 128,
+    "exng": 0,
+    "thalachh": 184
+  },
+  {
+    "sex": 1,
+    "trtbps": 105,
+    "exng": 1,
+    "thalachh": 154
+  },
+  {
+    "sex": 1,
+    "trtbps": 112,
+    "exng": 0,
+    "thalachh": 179
+  },
+  {
+    "sex": 1,
+    "trtbps": 128,
+    "exng": 0,
+    "thalachh": 170
+  },
+  {
+    "sex": 0,
+    "trtbps": 102,
+    "exng": 0,
+    "thalachh": 160
+  },
+  {
+    "sex": 1,
+    "trtbps": 152,
+    "exng": 0,
+    "thalachh": 178
+  },
+  {
+    "sex": 0,
+    "trtbps": 102,
+    "exng": 0,
+    "thalachh": 122
+  },
+  {
+    "sex": 0,
+    "trtbps": 115,
+    "exng": 0,
+    "thalachh": 160
+  },
+  {
+    "sex": 1,
+    "trtbps": 118,
+    "exng": 0,
+    "thalachh": 151
+  },
+  {
+    "sex": 1,
+    "trtbps": 101,
+    "exng": 0,
+    "thalachh": 156
+  },
+  {
+    "sex": 0,
+    "trtbps": 110,
+    "exng": 0,
+    "thalachh": 158
+  },
+  {
+    "sex": 0,
+    "trtbps": 100,
+    "exng": 0,
+    "thalachh": 122
+  },
+  {
+    "sex": 1,
+    "trtbps": 124,
+    "exng": 0,
+    "thalachh": 175
+  },
+  {
+    "sex": 1,
+    "trtbps": 132,
+    "exng": 1,
+    "thalachh": 168
+  },
+  {
+    "sex": 1,
+    "trtbps": 138,
+    "exng": 0,
+    "thalachh": 169
+  },
+  {
+    "sex": 0,
+    "trtbps": 132,
+    "exng": 1,
+    "thalachh": 159
+  },
+  {
+    "sex": 0,
+    "trtbps": 112,
+    "exng": 0,
+    "thalachh": 138
+  },
+  {
+    "sex": 1,
+    "trtbps": 142,
+    "exng": 1,
+    "thalachh": 111
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 157
+  },
+  {
+    "sex": 1,
+    "trtbps": 108,
+    "exng": 0,
+    "thalachh": 147
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 173
+  },
+  {
+    "sex": 1,
+    "trtbps": 148,
+    "exng": 0,
+    "thalachh": 178
+  },
+  {
+    "sex": 1,
+    "trtbps": 178,
+    "exng": 0,
+    "thalachh": 145
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 179
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 194
+  },
+  {
+    "sex": 1,
+    "trtbps": 129,
+    "exng": 0,
+    "thalachh": 163
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 115
+  },
+  {
+    "sex": 1,
+    "trtbps": 160,
+    "exng": 0,
+    "thalachh": 131
+  },
+  {
+    "sex": 0,
+    "trtbps": 138,
+    "exng": 1,
+    "thalachh": 152
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 0,
+    "trtbps": 110,
+    "exng": 0,
+    "thalachh": 159
+  },
+  {
+    "sex": 0,
+    "trtbps": 180,
+    "exng": 1,
+    "thalachh": 154
+  },
+  {
+    "sex": 1,
+    "trtbps": 150,
+    "exng": 0,
+    "thalachh": 173
+  },
+  {
+    "sex": 0,
+    "trtbps": 140,
+    "exng": 0,
+    "thalachh": 133
+  },
+  {
+    "sex": 1,
+    "trtbps": 110,
+    "exng": 0,
+    "thalachh": 161
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 155
+  },
+  {
+    "sex": 0,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 170
+  },
+  {
+    "sex": 1,
+    "trtbps": 130,
+    "exng": 0,
+    "thalachh": 168
+  },
+  {
+    "sex": 1,
+    "trtbps": 120,
+    "exng": 0,
+    "thalachh": 162
+  },
+  {
+    "sex": 0,
+    "trtbps": 105,
+    "exng": 0,
+    "thalachh": 172
+  },
+  {
+    "sex": 0,
+    "trtbps": 138,
+    "exng": 1,
+    "thalachh": 152
+  }
+]

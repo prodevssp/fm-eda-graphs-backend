@@ -1,0 +1,4 @@
+{
+  "columns": ["sex", "trtbps", "exng", "thalachh"],
+  "method": "pearson"
+}
